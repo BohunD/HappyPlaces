@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Places</string>
+    <string name="google_maps_api_key">AIzaSyALITCHISe7zMTIpUzTc1eSAKJFZDaRIZQ</string>
+    <string name="no_happy_places_found">No Happy Places found yet :( \n Add one to display it here! </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
